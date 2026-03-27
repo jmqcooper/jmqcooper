@@ -2,7 +2,7 @@
 
 Engineer and founder based in Amsterdam. I like building useful things from 0 to 1 — currently working with AI agents and shipping products.
 
-Check out my [Twitter](https://twitter.com/jmqcooper) or one of my companies ([Klarefi] (https://klarefi.com), [ReelsMeals](https://reelsmeals.com)).
+Check out my [Twitter](https://twitter.com/jmqcooper) or one of my companies ([Klarefi](https://klarefi.com), [ReelsMeals](https://reelsmeals.com)).
 
 ---
 
